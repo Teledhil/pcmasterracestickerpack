@@ -1,0 +1,34 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=eu.teledhil.wastickerapps.pcmasterrace",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "PC Master Race",
+      "publisher": "Teledhil",
+      "tray_image_file": "tray_pcmasterrace.png",
+      "publisher_email":"teledhil@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_pcmasterrace_logo.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02_pcmasterrace_torso.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "03_pcmasterrace_header.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "04_pcmasterrace_body.webp",
+          "emojis": ["😆","😂"]
+        }
+      ]
+    }
+  ]
+}
